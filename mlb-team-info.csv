@@ -1,31 +1,31 @@
-﻿Team ID,Team,City,State,Founded,Stadium,Capacity,World Series Titles,Last World Series Win,Image URL
-ARI,Arizona Diamondbacks,Phoenix,Arizona,1998,Chase Field,"48,519",1,2001,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/diamondbacks.png
-ATL,Atlanta Braves,Atlanta,Georgia,1871,Truist Park,"41,149",3,1995,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/braves.png
-BAL,Baltimore Orioles,Baltimore,Maryland,1901,Oriole Park at Camden Yards,"45,971",3,1983,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/orioles.png
-BOS,Boston Red Sox,Boston,Massachusetts,1901,Fenway Park,"37,755",9,2018,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/redSox.png
-CHA,Chicago Cubs,Chicago,Illinois,1870,Wrigley Field,"41,649",3,2016,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/cubs.png
-CHN,Chicago White Sox,Chicago,Illinois,1901,Guaranteed Rate Field,"40,615",3,2005,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/whiteSox.png
-CIN,Cincinnati Reds,Cincinnati,Ohio,1881,Great American Ball Park,"42,319",5,1990,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/reds.png
-CLE,Cleveland Guardians,Cleveland,Ohio,1901,Progressive Field,"34,788",2,1948,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/indians.png
-COL,Colorado Rockies,Denver,Colorado,1993,Coors Field,"50,144",0,,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/rockies.png
-DET,Detroit Tigers,Detroit,Michigan,1894,Comerica Park,"41,083",4,1984,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/tigers.png
-HOU,Houston Astros,Houston,Texas,1962,Minute Maid Park,"41,168",1,2017,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/astros.png
-KCA,Kansas City Royals,Kansas City,Missouri,1969,Kauffman Stadium,"37,903",2,2015,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/royals.png
-LAA,Los Angeles Angels,Anaheim,California,1961,Angel Stadium of Anaheim,"45,050",1,2002,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/angels.png
-LAN,Los Angeles Dodgers,Los Angeles,California,1883,Dodger Stadium,"56,000",7,2020,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/dodgers.png
-MIA,Miami Marlins,Miami,Florida,1993,loanDepot park,"36,742",2,2003,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/marlins.png
-MIL,Milwaukee Brewers,Milwaukee,Wisconsin,1969,American Family Field,"41,900",0,,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/brewers.png
-MIN,Minnesota Twins,Minneapolis,Minnesota,1901,Target Field,"38,649",3,1991,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/twins.png
-NYA,New York Mets,New York City,New York,1962,Citi Field,"41,922",2,1986,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/mets.png
-NYN,New York Yankees,New York City,New York,1901,Yankee Stadium,"47,309",27,2009,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/yankees.png
-OAK,Oakland Athletics,Oakland,California,1901,RingCentral Coliseum,"46,867",9,1989,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/athletics.png
-PHI,Philadelphia Phillies,Philadelphia,Pennsylvania,1883,Citizens Bank Park,"42,792",2,2008,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/phillies.png
-PIT,Pittsburgh Pirates,Pittsburgh,Pennsylvania,1887,PNC Park,"38,362",5,1979,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/pirates.png
-SDN,San Francisco Giants,San Francisco,California,1883,Oracle Park,"41,915",8,2014,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/giants.png
-SEA,San Diego Padres,San Diego,California,1969,Petco Park,"40,209",0,,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/padres.png
-SFN,Seattle Mariners,Seattle,Washington,1977,T-Mobile Park,"47,929",0,,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/mariners.png
-SLN,St. Louis Cardinals,St. Louis,Missouri,1882,Busch Stadium,"44,494",11,2011,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/cardinals.png
-TBA,Tampa Bay Rays,St. Petersburg,Florida,1998,Tropicana Field,"25,000",0,,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/rays.png
-TEX,Texas Rangers,Arlington,Texas,1961,Globe Life Field,"40,300",0,,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/rangers.png
-TOR,Toronto Blue Jays,Toronto,Ontario,1977,Rogers Centre,"49,282",2,1993,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/blueJays.png
-WAS,Washington Nationals,Washington,D.C.,1969,Nationals Park,"41,418",1,2019,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/nationals.png
+﻿Team ID,Team,City,State,Founded,Stadium,Capacity,World Series Titles,Image URL
+ARI,Arizona Diamondbacks,Phoenix,Arizona,1998,Chase Field,"48,519",1,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/diamondbacks.png
+ATL,Atlanta Braves,Atlanta,Georgia,1871,Truist Park,"41,149",3,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/braves.png
+BAL,Baltimore Orioles,Baltimore,Maryland,1901,Oriole Park at Camden Yards,"45,971",3,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/orioles.png
+BOS,Boston Red Sox,Boston,Massachusetts,1901,Fenway Park,"37,755",9,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/redSox.png
+CHA,Chicago Cubs,Chicago,Illinois,1870,Wrigley Field,"41,649",3,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/cubs.png
+CHN,Chicago White Sox,Chicago,Illinois,1901,Guaranteed Rate Field,"40,615",3,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/whiteSox.png
+CIN,Cincinnati Reds,Cincinnati,Ohio,1881,Great American Ball Park,"42,319",5,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/reds.png
+CLE,Cleveland Guardians,Cleveland,Ohio,1901,Progressive Field,"34,788",2,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/indians.png
+COL,Colorado Rockies,Denver,Colorado,1993,Coors Field,"50,144",0,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/rockies.png
+DET,Detroit Tigers,Detroit,Michigan,1894,Comerica Park,"41,083",4,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/tigers.png
+HOU,Houston Astros,Houston,Texas,1962,Minute Maid Park,"41,168",1,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/astros.png
+KCA,Kansas City Royals,Kansas City,Missouri,1969,Kauffman Stadium,"37,903",2,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/royals.png
+LAA,Los Angeles Angels,Anaheim,California,1961,Angel Stadium of Anaheim,"45,050",1,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/angels.png
+LAN,Los Angeles Dodgers,Los Angeles,California,1883,Dodger Stadium,"56,000",7,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/dodgers.png
+MIA,Miami Marlins,Miami,Florida,1993,loanDepot park,"36,742",2,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/marlins.png
+MIL,Milwaukee Brewers,Milwaukee,Wisconsin,1969,American Family Field,"41,900",0,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/brewers.png
+MIN,Minnesota Twins,Minneapolis,Minnesota,1901,Target Field,"38,649",3,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/twins.png
+NYA,New York Mets,New York City,New York,1962,Citi Field,"41,922",2,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/mets.png
+NYN,New York Yankees,New York City,New York,1901,Yankee Stadium,"47,309",27,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/yankees.png
+OAK,Oakland Athletics,Oakland,California,1901,RingCentral Coliseum,"46,867",9,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/athletics.png
+PHI,Philadelphia Phillies,Philadelphia,Pennsylvania,1883,Citizens Bank Park,"42,792",2,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/phillies.png
+PIT,Pittsburgh Pirates,Pittsburgh,Pennsylvania,1887,PNC Park,"38,362",5,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/pirates.png
+SDN,San Francisco Giants,San Francisco,California,1883,Oracle Park,"41,915",8,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/giants.png
+SEA,San Diego Padres,San Diego,California,1969,Petco Park,"40,209",0,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/padres.png
+SFN,Seattle Mariners,Seattle,Washington,1977,T-Mobile Park,"47,929",0,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/mariners.png
+SLN,St. Louis Cardinals,St. Louis,Missouri,1882,Busch Stadium,"44,494",11,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/cardinals.png
+TBA,Tampa Bay Rays,St. Petersburg,Florida,1998,Tropicana Field,"25,000",0,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/rays.png
+TEX,Texas Rangers,Arlington,Texas,1961,Globe Life Field,"40,300",0,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/rangers.png
+TOR,Toronto Blue Jays,Toronto,Ontario,1977,Rogers Centre,"49,282",2,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/blueJays.png
+WAS,Washington Nationals,Washington,D.C.,1969,Nationals Park,"41,418",1,https://raw.githubusercontent.com/klunn91/team-logos/master/MLB/nationals.png
